@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Descuentos Increíbles-2](https://github.com/user-attachments/assets/04c0b43b-2d82-47eb-8ebe-4add83e993b0)
+![Nueve Vidas](https://github.com/user-attachments/assets/de82124c-4845-4b79-8fcf-4141582a8f5e)
 
 <!--
 **arnauxdev/arnauxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
