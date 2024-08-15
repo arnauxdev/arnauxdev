@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Nueve Vidas](https://github.com/user-attachments/assets/de82124c-4845-4b79-8fcf-4141582a8f5e)
+![Nueve Vidas-2](https://github.com/user-attachments/assets/8fdbd04f-4719-44a9-acc4-7dda0e39eb9b)
+
 
 <!--
 **arnauxdev/arnauxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
