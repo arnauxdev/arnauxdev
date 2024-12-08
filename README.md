@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/arnauxdev/arnauxdev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+ArnauxDEV;DevOps;"></a>
+  <a href="https://github.com/arnauxdev/arnauxdev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+ArnauxDEV;"></a>
 </p>
 
 ![Nueve Vidas-4](https://github.com/user-attachments/assets/aac02050-c5f9-4436-b4e6-d3e767664940)
