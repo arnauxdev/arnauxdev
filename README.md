@@ -9,7 +9,7 @@
 I started my career in technology with a solid foundation in **Web Application Development (DAW)** and **System Administration (SMR)**. Over time, my passion for automation, infrastructure management, and problem-solving led me to transition towards a career in **DevOps**.
 
 ## 📋 Languages:
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -21,7 +21,7 @@ I started my career in technology with a solid foundation in **Web Application D
 </p>
 
 ## 📚 Frameworks, Platforms and Libraries:
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flask-%2302569B.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Django-%23092f5f.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-%2300d8ff.svg?style=for-the-badge&logo=React&logoColor=white" alt="React" />
@@ -32,7 +32,7 @@ I started my career in technology with a solid foundation in **Web Application D
 </p>
 
 ## 🎨 Design & Architecture Tools:
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Lucidchart-%232D5E8C.svg?style=for-the-badge&logo=Lucidchart&logoColor=white" alt="Lucidchart" />
   <img src="https://img.shields.io/badge/Draw.io-%234B81C7.svg?style=for-the-badge&logo=draw.io&logoColor=white" alt="Draw.io" />
   <img src="https://img.shields.io/badge/Miro-%2300A9E0.svg?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
@@ -40,7 +40,7 @@ I started my career in technology with a solid foundation in **Web Application D
 </p>
 
 ## 💻 IDEs/Editors :
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE" />
@@ -54,7 +54,7 @@ I started my career in technology with a solid foundation in **Web Application D
 </p>
 
 ## 🎛️ Operating System :
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
